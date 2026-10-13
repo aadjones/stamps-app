@@ -1,3 +1,5 @@
+<p align="center"><img src="images/icon.png" width="160" alt="Stamps icon: Chonke the cat"></p>
+
 # Stamps
 
 A little cat named Chonke lives in your menu bar. Every so often it peeks in from the edge
@@ -20,6 +22,10 @@ Needs macOS 13 or newer, on any Mac.
 | **⌥⌘Y** | Yikes |
 
 Chonke also drops by on its own every 20–60 minutes, but only while you're at your Mac.
+
+Yikes lands at a different size each time, sometimes mirrored, and the scream changes speed:
+
+<p align="center"><img src="images/yikes.png" width="240" alt="Yikes: a screaming stone face on a tilted photo print"></p>
 
 ## Menu bar
 
