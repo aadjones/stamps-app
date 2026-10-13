@@ -16,7 +16,7 @@ Needs macOS 13 or newer, on any Mac.
 
 ## Shortcuts
 
-| | |
+| Shortcut | Does |
 |---|---|
 | **⌥⌘P** | Chonke peeks in |
 | **⌥⌘Y** | Yikes |
